@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "creditcard-2420b": {
+      "hosting": {
+        "creditCard": [
+          "creditcard-2420b"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "creditcard-2420b"
+  }
+}
